@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "name": "v86",
+    "version": "1.0.0",
+    "author": "Nik Nikovsky",
+    "icon": "@local:icon.png"
+  },
+  "position": {
+    "centered": true,
+    "x": 0,
+    "y": 0
+  },
+  "size": {
+    "w": 512,
+    "h": 512
+  },
+  "minSize": {
+    "w": 300,
+    "h": 300
+  },
+  "maxSize": {
+    "w": 1920,
+    "h": 1080
+  },
+  "state": {
+    "minimized": false,
+    "maximized": false,
+    "headless": false,
+    "resizable": true,
+    "fullscreen": false
+  },
+  "controls": {
+    "minimize": true,
+    "maximize": true,
+    "close": true
+  },
+  "glass": true,
+  "hidden": false,
+  "core": false,
+  "entrypoint": "main.js",
+  "id": "NikN_v86"
+}

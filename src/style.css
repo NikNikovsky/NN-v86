@@ -1,0 +1,51 @@
+/* Ensure html and body take full height */
+html, body {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden !important;
+    background-color: #000000;
+}
+
+/* ArcOS container for your app's body.html content */
+#NikN_v86 > div.body {
+    padding: 0 !important;
+    margin: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    box-sizing: border-box !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    align-items: stretch !important;
+}
+
+/* App's main container (from body.html) */
+#app-wrapper {
+    width: 100% !important;
+    height: 100% !important;
+    flex-grow: 1 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+    background-color: #000000;
+}
+
+/* The iframe itself */
+#v86-frame {
+    width: 100% !important;
+    height: 100% !important;
+    border: none !important;
+    background-color: #FFFFFF;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    display: block;
+}
+
+/* General text styling */
+body {
+    font-family: sans-serif;
+    color: #FF0000;
+}
