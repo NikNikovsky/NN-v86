@@ -3,7 +3,7 @@
     "name": "v86",
     "description": "A site with lots of systems to run in a browser",
     "author": "Nik Nikovsky",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "installLocation": "U:/Applications/NikN_v86",
     "appId": "NikN_v86",
     "store": {
@@ -16,6 +16,6 @@
   "outFile": "NikN_v86.arc",
   "payloadDir": "src",
   "devPort": 3128,
-  "buildHash": "9efa6d1f",
+  "buildHash": "ed497741",
   "noHotRelaunch": false
 }
