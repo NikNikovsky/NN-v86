@@ -3,13 +3,14 @@
     "name": "v86",
     "description": "A site with lots of systems to run in a browser",
     "author": "Nik Nikovsky",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "installLocation": "U:/Applications/NikN_v86",
     "appId": "NikN_v86",
     "store": {
       "image": "store/image.png",
       "screenshots": [
-        "store/1.png"
+        "store/1.png",
+        "store/2.png"
       ]
     }
   },
